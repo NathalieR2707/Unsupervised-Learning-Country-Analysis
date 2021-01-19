@@ -1,5 +1,4 @@
-# Unsupervised-Learning-Project
-Project on clustering world countries by their vulnerability and readiness to climate disruptions
+# Project on clustering world countries by their vulnerability and readiness to climate disruptions
 
 Context
 
